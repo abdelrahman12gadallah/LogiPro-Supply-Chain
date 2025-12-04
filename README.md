@@ -50,7 +50,7 @@ Evaluation of supplier performance based on "On-Time %" and lead time vs. actual
 - **Microsoft Power BI:** Data visualization and dashboard creation.
 - **Power Query:** Data cleaning and transformation.
 - **DAX:** Creating measures for "On-Time %", "Inventory Turnover", and dynamic aggregations.
-- **Excel/SQL:** (Assuming) Source data storage.
+- **Excel/CSV:** (Assuming) Source data storage.
 
 ---
 
