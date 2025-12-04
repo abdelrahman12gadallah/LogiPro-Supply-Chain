@@ -13,19 +13,19 @@ This project is a comprehensive Power BI dashboard designed for **LogiPro Distri
 Key metrics including Total Sales ($90.87M), Total Orders (10K), and performance trends over time.
 *(Overview of sales performance by region and delivery trends)*
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ### 2. Inventory & Warehouse Analysis
 Detailed view of stock levels, reorder points, and stock value by product. Highlights items that need immediate reordering.
 *(Tracking stock on hand vs. reorder levels)*
 
-![Inventory Analysis](screenshots/inventory_warehouse.png)
+![Inventory Analysis](Screenshots/inventory_warehouse.png)
 
 ### 3. Supplier & Delivery Insights
 Evaluation of supplier performance based on "On-Time %" and lead time vs. actual delivery days.
 *(Comparing supplier reliability and shipping times)*
 
-![Supplier Insights](screenshots/supplier_insights.png)
+![Supplier Insights](Screenshots/supplier_insights.png)
 
 ---
 
